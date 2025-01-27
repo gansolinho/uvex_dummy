@@ -12,8 +12,7 @@ st.set_page_config(
 )
 
 # Logo
-st.logo('images/logos/Uvex_logo.svg', size='large', icon_image='images/logos/uvex_logo_black.svg')
-
+st.logo('https://raw.githubusercontent.com/gansolinho/uvex_dummy/bd6e45a6cb76162b882a5d2d86488fb00a656ea5/images/logos/Uvex_Logo.svg', size='large', icon_image='https://raw.githubusercontent.com/gansolinho/uvex_dummy/bd6e45a6cb76162b882a5d2d86488fb00a656ea5/images/logos/uvex_logo_black.svg')
 # Page-Überschrift
 st.write("# Unternehmen 🏭")
 
