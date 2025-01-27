@@ -90,7 +90,7 @@ with tab2:
     col1, col2, col3, col4, col5, col6 = st.columns(6)
 
     # Artikelbilder anzeigen
-    col1.image('images/jacke_suXXeed_industry/anthrazit/jacke_bild_1.webp')
+    col1.image('https://raw.githubusercontent.com/gansolinho/uvex_dummy/refs/heads/main/images/jacke_suXXeed_industry/anthrazit/jacke_bild_1.webp')
     col2.image('images/jacke_suXXeed_industry/anthrazit/jacke_bild_2.webp')
     col3.image('images/jacke_suXXeed_industry/anthrazit/jacke_bild_3.webp')
     col4.image('images/jacke_suXXeed_industry/anthrazit/jacke_bild_4.webp')
