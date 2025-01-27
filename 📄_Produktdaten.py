@@ -39,7 +39,7 @@ with tab1:
     col2b.write("4049358590111")
     col2b.write("L")
     col2b.write("anthrazit")
-    col2b.write("27,00 Euro")
+    col2b.write("ab 27,00 Euro")
     col2b.write("2025")
     col2b.write("0,850 kg")
 
